@@ -15,7 +15,7 @@ To execute the prototype on your local machine, download the repository that inc
 * **20.zip:** 20 raw EEG intervals each with a 15-second duration
 * **checkpoint_1D_CNN.h5:** 1D-CNN model artifact 
 * **checkpoint_3D_CNN.h5:** 3D-CNN model artifact 
-* **scaler.sav:** saved scaling parameters during data preprocessing and model training
+* **scaler.sav:** saved scaling parameters during data preprocessing
 * **requirements.txt:** required python packages
 * **X.npy:** transformed EEG data used to train 1D-CNN
 * **XAI4EEG.py:** streamlit file to execute the prototype (open Anaconda Prompt and navigate to the folder where you stored the repository, finally you can launch the streamlit interface via streamlit run XAI4EEG.py)
