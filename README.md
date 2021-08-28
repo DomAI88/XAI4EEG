@@ -17,6 +17,6 @@ To execute the prototype on your local machine, download the repository that inc
 * **scaler.sav:** saved scaling parameters during data preprocessing
 * **requirements.txt:** required python packages
 * **X.npy:** transformed EEG data used to train 1D-CNN
-* **XAI4EEG.py:** streamlit file to execute the prototype (open Anaconda Prompt and navigate to the folder where you stored the repository, finally you can launch the streamlit interface via streamlit run XAI4EEG.py)
+* **XAI4EEG.py:** streamlit file to execute the prototype (open Anaconda Prompt and navigate to the folder where you stored the repository files, finally you can launch the streamlit interface via 'streamlit run XAI4EEG.py')
 
 **Please note to adjust to the code lines 79, 81, 84, 353, and 459 to your local path.**
