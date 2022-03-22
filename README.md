@@ -16,13 +16,13 @@ We provide reproducible research by offering the prototype, a walkthrough video 
 
 To run the prototype on your local machine, please download the repository encompassing the follwing files:
 
+* **XAI4EEG.py:** streamlit main file to run the prototype; to do so, open Anaconda Prompt, navigate to the path you saved files, and run the main file via 'streamlit run XAI4EEG.py'
 * **20.zip:** 20 raw EEG intervals each with a 15-second duration
+* **X.npy:** transformed EEG data used to train the 1D-CNN (needed to compute the SHAP values)
+* **scaler.sav:** saved scaling parameters during our feature extraction steps
 * **checkpoint_1D_CNN.h5:** 1D-CNN classifier
 * **checkpoint_3D_CNN.h5:** 3D-CNN classifier
-* **scaler.sav:** saved scaling parameters during our feature extraction steps
 * **requirements.txt:** required packages
-* **X.npy:** transformed EEG data used to train the 1D-CNN (needed to compute the SHAP values)
-* **XAI4EEG.py:** streamlit main file to run the prototype; to do so, open Anaconda Prompt, navigate to the path you saved files, and run the main file via 'streamlit run XAI4EEG.py'
 
 **Please note to adjust to the code lines 79, 81, 84, 353, and 459 in XAI4EEG.py to fit your local path.**
 
