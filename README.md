@@ -24,6 +24,6 @@ To run the prototype on your local machine, please download the repository encom
 * **checkpoint_3D_CNN.h5:** 3D-CNN classifier
 * **requirements.txt:** required packages
 
-**Please note to adjust to the code lines 79, 81, 84, 353, and 459 in XAI4EEG.py to fit your local path.**
+**Note to adjust to the code lines 79, 81, 84, 353, and 459 in XAI4EEG.py to fit your local path.**
 
 More information: https://ml-and-vis.org/xai4eeg/
