@@ -8,7 +8,7 @@ The resulting visual explanation provides an intuitive identification of decisio
 
 EEG time series are characterized by (a) spectral, (b) spatial and (c) temporal dimensions and since all are crucial for seizure detection, *we argue that an explanation of an algorithmic prediction must unify these three dimensions.*
 
-We provide reproducible research by offering the prototype, source code and a tutorial video:
+We provide reproducible research by offering the prototype, a tutorial video and the source code:
 
 **Executable protoype:** https://xai4eeg.herokuapp.com/
 
