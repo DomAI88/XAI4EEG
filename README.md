@@ -1,5 +1,7 @@
 # XAI4EEG: Spectral and spatio-temporal explanation of Deep Learning-based Seizure Detection in EEG time series
 
+
+
 We introduce **XAI4EEG**: an application-aware approach for an explainable and hybrid deep learning-based detection of seizures in multivariate EEG time series.
 In XAI4EEG, we combine deep learning models and domain knowledge on seizure detection, namely (a) frequency bands, (b) location of EEG leads and (c) temporal characteristics. From the technical perspective, XAI4EEG encompasses EEG data preparation, two deep learning models (1D-CNN and 3D-CNN) and our proposed explanation module visualizing feature contributions that are obtained by two SHAP explainers, each explaining the predictions of one of the two models.
 The resulting visual explanation provides an intuitive identification of decision-relevant regions in the spectral, spatial and temporal EEG dimensions. 
