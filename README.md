@@ -12,7 +12,7 @@ We provide reproducible research by offering the prototype, a walkthrough video 
 
 **Executable protoype:** https://xai4eeg.herokuapp.com/
 
-**Walkthrough video:**
+**Tutorial video:** https://youtu.be/KHS2diEURHs
 
 To run the prototype on your local machine, please download the repository encompassing the follwing files:
 
