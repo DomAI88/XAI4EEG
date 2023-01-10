@@ -10,7 +10,7 @@ EEG time series are characterized by (a) spectral, (b) spatial and (c) temporal 
 
 We provide reproducible research by offering the prototype, a tutorial video and the source code:
 
-**Executable protoype:** https://xai4eeg.herokuapp.com/
+**Executable protoype:** https://domai88-xai4eeg-hosting-xai4eeg-ui-7gk1w9.streamlit.app/
 
 **Tutorial video:** https://youtu.be/KHS2diEURHs
 
