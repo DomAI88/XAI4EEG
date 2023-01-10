@@ -27,4 +27,5 @@ To run the prototype on your local machine, please download the repository encom
 **Note to adjust to the code lines 79, 81, 84, 353, and 459 in XAI4EEG.py to fit your local path.**
 
 More information: https://ml-and-vis.org/xai4eeg/
+
 Open Access Article: https://link.springer.com/article/10.1007/s00521-022-07809-x
