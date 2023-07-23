@@ -14,6 +14,8 @@ We provide reproducible research by offering the prototype, a tutorial video and
 
 **Tutorial video:** https://youtu.be/KHS2diEURHs
 
+**Open Access Article:** https://link.springer.com/article/10.1007/s00521-022-07809-x
+
 To run the prototype on your local machine, please download the repository encompassing the follwing files:
 
 * **XAI4EEG.py:** streamlit main file to run the prototype; to do so, open Anaconda Prompt, navigate to the path you saved the files, and run the main file via 'streamlit run XAI4EEG.py'
@@ -27,5 +29,3 @@ To run the prototype on your local machine, please download the repository encom
 **Note to adjust to the code lines 79, 81, 84, 353, and 459 in XAI4EEG.py to fit your local path.**
 
 More information: https://ml-and-vis.org/xai4eeg/
-
-Open Access Article: https://link.springer.com/article/10.1007/s00521-022-07809-x
